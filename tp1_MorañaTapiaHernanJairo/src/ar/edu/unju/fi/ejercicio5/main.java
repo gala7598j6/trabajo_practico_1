@@ -23,7 +23,7 @@ public class main {
         }
 		
 		leer.close();
-		//
+		
 	}
 
 }
